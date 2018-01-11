@@ -4,4 +4,8 @@ git command
 git remote add origin git
 git push -u origin master. <first time use "-u" to set relation between local and remote repository>
 
-this one refers to branch master
+<<<<<<< HEAD
+this one refers to branch
+=======
+this one refers to branch
+>>>>>>> feature1
